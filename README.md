@@ -8,14 +8,26 @@ Takes xml from http://www.thebigchoice.com/feeds/full_job_xml.php and inserts in
 php xml.php
 ```
 
-## SQL Table
+## SQL
+
+Sqlite queries to create tables
 
 > db.sql
 
 ## Mapping
 
+How to translate XML data
+
 > mapping.json
 
 ## PHP Info
 
+PHP information
+
 > phpinfo.txt
+
+## XML Feed
+
+Offline XML feed used for testing
+
+> feed.xml

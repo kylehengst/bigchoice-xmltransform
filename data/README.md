@@ -1,1 +1,1 @@
-Ensure this folder writable
+Ensure this folder is writable
