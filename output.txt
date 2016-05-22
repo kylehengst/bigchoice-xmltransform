@@ -1,0 +1,92 @@
+Job
+
+Array
+(
+    [CompanyRef] => 635202255
+    [JobTitle] => Project Management Apprentice
+    [SummaryLocation] => Bedford
+    [SalaryBenefits] => £270 per week
+    [Summary] => QSBicmlsbGlhbnQgb3Bwb3J0dW5pdHkgaGFzIGFyaXNlbiB0byBqb2luIHRoZSBVSyBiYXNlZCBhcm0gb2YgTG9ja2hlZWQgTWFydGluLiBBcHBseSBub3cgYW5kIGtpY2stc3RhcnQgeW91ciBjYXJlZXIgd2l0aCB0aGlzIGV4Y2VsbGVudCBoaWdoZXIgQXBwcmVudGljZXNoaXAh
+    [Description] => PGRpdiBzdHlsZT0iZm9udC1zaXplOjE2cHg7IGNvbG9yOiMyMjI7IGJvcmRlci1ib3R0b206IDFweCBkb3R0ZWQgIzY2NjsgcGFkZGluZy1ib3R0b206N3B4OyBtYXJnaW4tYm90dG9tOiA4cHg7IGZvbnQtd2VpZ2h0OmJvbGQ7Ij5BYm91dCB0aGUgcm9sZTo8L2Rpdj4NCjxkaXYgc3R5bGU9ImZvbnQtc2l6ZTogMTRweDsgdGV4dC1hbGlnbjogbGVmdDsgbGluZS1oZWlnaHQ6MTUwJTsiPg0KDQoNCkEgYnJpbGxpYW50IG9wcG9ydHVuaXR5IGhhcyBhcmlzZW4gdG8gam9pbiB0aGUgVUsgYmFzZWQgYXJtIG9mIExvY2toZWVkIE1hcnRpbi4gQXBwbHkgbm93IGFuZCBraWNrLXN0YXJ0IHlvdXIgY2FyZWVyIHdpdGggdGhpcyBleGNlbGxlbnQgaGlnaGVyIEFwcHJlbnRpY2VzaGlwIQ0KPGJyIC8+PGJyIC8+DQo8c3BhbiBzdHlsZT0iZm9udC1zaXplOjE0LjVweDsgZm9udC13ZWlnaHQ6Ym9sZDsiPg0KWW91IHdpbGwgYmUgd29ya2luZyBmb3IuLi4gPC9zcGFuPg0KPGJyIC8+PGJyIC8+DQoNCkxvY2toZWVkIE1hcnRpbiBVSyBBbXB0aGlsbCBMdGQgc3BlY2lhbGlzaW5nIGluIHRoZSBkZXZlbG9wbWVudCwgaW50ZWdyYXRpb24gYW5kIHN1c3RhaW5tZW50IG9mIGFkdmFuY2VkIHRlY2hub2xvZ3kgc3lzdGVtcywgcHJvZHVjdHMgYW5kIHNlcnZpY2VzLiBPdXIgY2xpZW50J3MgYXBwcmVudGljZXNoaXAgc2NoZW1lIHdpbGwgYWxsb3cgeW91IHRvIGdyb3cgYW5kIGV4Y2VsIGluIGNoYWxsZW5naW5nIGFuZCBpbnNwaXJpbmcgZW52aXJvbm1lbnRzLiBJdCBpcyBhIG5hdGlvbmFsbHktcmVjb2duaXNlZCBxdWFsaWZpY2F0aW9uIHVuZGVycGlubmVkIGJ5IHRoZSBOYXRpb25hbCBTa2lsbHMgQ291bmNpbCB3aGljaCBpbmNsdWRlcyBlbGl0ZSB0cmFpbmluZyBpbmNvcnBvcmF0aW5nIHByb2Zlc3Npb25hbCBhY2NyZWRpdGF0aW9uLiBXb3JraW5nIGFzIHBhcnQgb2YgYSBkeW5hbWljIHRlYW0sIHRoZSBmb2N1cyBpcyBvbiBwcm92aWRpbmcgc21hcnQgc29sdXRpb25zIHdoaWxzdCBjcmVhdGl2ZWx5IHNvbHZpbmcgcHJvYmxlbXMgZm9yIG91ciBjdXN0b21lcnMuDQo8YnIgLz48YnIgLz4NCg0KQmUgcGFydCBvZiBRQSdzIDEwayBpbiB0ZWNoIGFuZCBhZGQgeW91cnNlbGYgdG8gdGhlIFVLJ3MgdGVjaCBleHBsb3Npb24hDQo8YnIgLz48YnIgLz4NCjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTQuNXB4OyBmb250LXdlaWdodDpib2xkOyI+DQpJbiB0aGlzIHJvbGUgeW91IHdpbGwgYmUuLi4gPC9zcGFuPg0KPGJyIC8+PGJyIC8+DQoNCkVtYmVkZGVkIGludG8gdmFyaW91cyBwcm9qZWN0cyB3aGVyZSwgd2l0aCBndWlkYW5jZSBmcm9tIHN1YmplY3QgbWF0dGVyIGV4cGVydHMgZGV2ZWxvcCBza2lsbHMgYW5kIGdhaW4gZXhwZXJpZW5jZSB0byBwcm92aWRlIGV2aWRlbmNlIG9mIHRoZWlyIGtub3dsZWRnZSBhbmQgbGVhcm5pbmcuIEFwcHJlbnRpY2VzIHdpbGwgYmUgZXhwb3NlZCB0byBhbGwgYXNwZWN0cyBvZiBQcm9qZWN0IE1hbmFnZW1lbnQsIGdpdmluZyB0aGVtIHRoZSBvcHBvcnR1bml0eSB0byBzZWxlY3Qgd2hlcmUgdGhleSB3b3VsZCBsaWtlIHRvIHB1cnN1ZSBhIHBvc3QgYXBwcmVudGljZXNoaXAgY2FyZWVyLiBUaGUgY2FuZGlkYXRlIHdpbGwgYmUgZXhwZWN0ZWQgdG8gbGVhcm4sIGJlaGF2ZSBwcm9mZXNzaW9uYWxseSBhbmQgY29tcGxldGUgdGhlaXIgYXNzaWdubWVudHMgd2l0aGluIHRoZSByZXF1aXJlZCB0aW1lc2NhbGVzLg0KPGJyIC8+PGJyIC8+DQoNClRoZSBjYW5kaWRhdGUgd2lsbCBiZSBlbnRpdGxlZCB0byAyNSBkYXlzIGFubnVhbCBsZWF2ZTsgZW1wbG95ZWUgYXNzaXN0YW5jZSBwcm9ncmFtbWU7IGZpdG5lc3MgcmVpbWJ1cnNlbWVudCAobWluaW11bSA2IG1vbnRoIGNvbnRyYWN0KTsgcHJpdmF0ZSBtZWRpY2FsIGNvdmVyIJZzaW5nbGU7IGVtcGxveWVlIGxpZmUgYXNzdXJhbmNlOyBncm91cCBpbmNvbWUgcHJvdGVjdGlvbjsgcGVuc2lvbjsgZmx1IHZhY2NpbmF0aW9ucy4gVGhpcyByb2xlIHdpbGwgY29tbWVuY2UgZWFybHkgU2VwdGVtYmVyLg0KPGJyIC8+PGJyIC8+DQoNClBsZWFzZSBub3RlIHRoYXQgdGhlc2UgcG9zaXRpb25zIHJlcXVpcmUgSE0gR292ZXJubWVudCBzZWN1cml0eSBjbGVhcmFuY2UuIEluIG9yZGVyIHRvIGFwcGx5IGZvciBhIHBvc2l0aW9uIHJlcXVpcmluZyBzZWN1cml0eSBjbGVhcmFuY2UgdGhlIGFwcGxpY2FudCBtdXN0IG1lZXQgdGhlIERlZmVuY2UgQnVzaW5lc3MgU2VydmljZXMgTmF0aW9uYWwgU2VjdXJpdHkgVmV0dGluZyBjcml0ZXJpYS4gRGV0YWlscyBvZiB0aGUgY3JpdGVyaWEgY2FuIGJlIGZvdW5kIG9uIHRoZSBNT0Qgd2Vic2l0ZS4NCjxiciAvPjxiciAvPg0KPHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxNC41cHg7IGZvbnQtd2VpZ2h0OmJvbGQ7Ij4NCllvdXIgdHJhaW5pbmcgd2lsbC4uLiA8L3NwYW4+DQo8YnIgLz48YnIgLz4NCg0KQmUgYSAyNCBtb250aCBIaWdoZXIgUHJvamVjdCBNYW5hZ2VtZW50IGFwcHJlbnRpY2VzaGlwLCB3aGljaCBjb21iaW5lcyB0cmFpbmluZyBhbmQgd29yay1iYXNlZCBhc3Nlc3NtZW50LCBjb3ZlcmluZzogUHJpbmNpcGxlcyBPZiBQcm9qZWN0IE1hbmFnZW1lbnQsIE1hbmFnaW5nIFByb2plY3QgU2NvcGUsIE1hbmFnaW5nIA0KUHJvamVjdCBSZXNvdXJjZXMgQW5kIFNjaGVkdWxlcw0KPGJyIC8+PGJyIC8+DQoNCllvdSB3aWxsIGdhaW4gQXNzb2NpYXRlIG9mIFByb2plY3QgTWFuYWdlbWVudCAoQVBNKSwgYW5kIEVBTCBMZXZlbCA0IERpcGxvbWEgaW4gUHJvamVjdCBNYW5hZ2VtZW50Lg0KPGJyIC8+PGJyIC8+DQo8c3BhbiBzdHlsZT0iZm9udC1zaXplOjE0LjVweDsgZm9udC13ZWlnaHQ6Ym9sZDsiPg0KV2hvIHNob3VsZCBhcHBseS4uLiA8L3NwYW4+DQo8YnIgLz48YnIgLz4NCg0KSGF2ZSB5b3UgZXZlciBvcmdhbmlzZWQgYSBwYXJ0eSwgcGxhbm5lZCBhbiBldmVudCBhdCBzY2hvb2wgb3IgY29sbGVnZSBvciBjb21wbGV0ZWQgYSBwaWVjZSBvZiBjb3Vyc2V3b3JrIHdpdGggYSBncm91cD8gSWYgc28gaXQgaXMgbGlrZWx5IHRoYXQgeW91IGhhdmUgdXNlZCBwcm9qZWN0IG1hbmFnZW1lbnQgc2tpbGxzLiBPdXIgaWRlYWwgQXBwcmVudGljZSB3aWxsIGJlIGEgZ29vZCBjb21tdW5pY2F0b3IgYm90aCB3cml0dGVuIGFuZCBvcmFsbHksIElUIHByb2ZpY2llbnQgKGlkZWFsbHkgTVMgT2ZmaWNlKSwgZ29vZCBudW1lcmFjeSBhbmQgbGl0ZXJhY3kgc2tpbGxzLiBUaGUgY2FuZGlkYXRlcyB3aWxsIGFsc28gaGF2ZSBhIHN0cm9uZyBvcmdhbmlzYXRpb25hbCBza2lsbHMgd2l0aCBhIGdvLWdldHRpbmcsICdjYW4tZG8nIGF0dGl0dWRlIHBsdXMgYSBzdHJvbmcgaW50ZXJlc3QgaW4gYSBwcm9qZWN0IG1hbmFnZW1lbnQgY2FyZWVyLg0KPGJyIC8+PGJyIC8+DQo8c3BhbiBzdHlsZT0iZm9udC1zaXplOjE0LjVweDsgZm9udC13ZWlnaHQ6Ym9sZDsiPg0KT3RoZXIgaW1wb3J0YW50IGluZm9ybWF0aW9uOiA8L3NwYW4+DQo8YnIgLz48YnIgLz4NCg0KVGhlIGNhbmRpZGF0ZSBzaG91bGQgYmUgMTggb3IgYWJvdmUsIHdpdGggYW4gQSBsZXZlbCBvciBhIExldmVsIDMgaW4gYSBzaW1pbGFyIHN1YmplY3Qgb3IgSW50ZXJuYXRpb25hbCBCYWNjYWxhdXJlYXRlOyBLZXkgU2tpbGxzIGxldmVsIDM7IE5WUSBsZXZlbCAzOyBBZHZhbmNlZCBkaXBsb21hOyBQcm9ncmVzc2lvbiBkaXBsb21hOyBCVEVDIGF3YXJkLCBjZXJ0aWZpY2F0ZSBhbmQgZGlwbG9tYSBsZXZlbCAzOyBCVEVDIE5hdGlvbmFsDQo8YnIgLz48YnIgLz4NCjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTQuNXB4OyBmb250LXdlaWdodDpib2xkOyI+DQpXaGF0IGhhcHBlbnMgd2hlbiBJIGZpbmlzaCBteSBhcHByZW50aWNlc2hpcC4uLiA8L3NwYW4+DQo8YnIgLz48YnIgLz4NCg0KSGF2aW5nIGJlZW4gZXhwb3NlZCBkdXJpbmcgdGhlIGFwcHJlbnRpY2VzaGlwIHRvIGEgbnVtYmVyIG9mIHRlYW1zIGFuZCBkZXBhcnRtZW50cywgdGhlIG9wcG9ydHVuaXRpZXMgZm9yIHByb2dyZXNzaW9uIGFyZSB0cmVtZW5kb3VzLg0KPGJyIC8+PGJyIC8+DQoNCkl0IG9ubHkgdGFrZXMgYSBtaW51dGUgdG8gYXBwbHkgZm9yIGEgUHJvamVjdCBtYW5hZ2VtZW50IGFwcHJlbnRpY2VzaGlwIHdpdGggUUEgYW5kIGJlZ2luIHlvdXIgUHJvamVjdCBNYW5hZ2VtZW50IGNhcmVlciB3aXRoIGdyZWF0IHByb3NwZWN0cyB0b2RheS4NCjxiciAvPjxiciAvPg0KPHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxNC41cHg7IGZvbnQtd2VpZ2h0OmJvbGQ7Ij4NClFBJ3MgYXBwcmVudGljZXNoaXAgcHJvZ3JhbW1lcyBhcmUgcGFydC1mdW5kZWQgYnkgRVNGLiBUaGUgRVNGIGlzIEV1cm9wZSdzIG1haW4gaW5zdHJ1bWVudCBmb3Igc3VwcG9ydGluZyBqb2JzLCBoZWxwaW5nIHBlb3BsZSBnZXQgYmV0dGVyIGpvYnMgYW5kIGVuc3VyaW5nIGZhaXJlciBqb2Igb3Bwb3J0dW5pdGllcyBmb3IgYWxsIEVVIGNpdGl6ZW5zLiA8L3NwYW4+DQoNCg0KDQoNCjwvZGl2Pg0KPGJyIC8+DQo=
+    [JobType] => Apprenticeship
+    [ApplicationURL] => http://www.thebigchoice.com/jobs/apply?id=300004381
+    [JobCategories] => Array
+        (
+            [JobCategory] => Array
+                (
+                    [0] => Array
+                        (
+                            [CategoryID] => 43
+                        )
+
+                    [1] => Array
+                        (
+                            [CategoryID] => 9
+                        )
+
+                )
+
+        )
+
+    [JobRegions] => Array
+        (
+            [JobRegion] => Array
+                (
+                    [RegionID] => 2
+                )
+
+        )
+
+    [JobWorkTypes] => Array
+        (
+            [JobWorkType] => Array
+                (
+                    [0] => Array
+                        (
+                            [WorkTypeID] => 9
+                        )
+
+                    [1] => Array
+                        (
+                            [WorkTypeID] => 11
+                        )
+
+                )
+
+        )
+
+)
+
+Company
+
+Array
+(
+    [CompanyRef] => 28
+    [CompanyName] => Campus Media
+    [ProfileType] => HTML
+    [ProfileText] => Q2FtcHVzIE1lZGlhIC0gTWVkaWEsIE1hcmtldGluZyBhbmQgQWR2ZXJ0aXNpbmcgU3BlY2lhbGlzdHMuDQo8YnIgLz48YnIgLz4NCkNhbXB1cyBNZWRpYSB3b3JrcyB3aXRoIGJyYW5kcyB0byBtYXJrZXQgcHJvZHVjdHMgdG8gdGhlIHlvdXRoIG1hcmtldCB1c2luZyBhIGRpdmVyc2UgcmFuZ2Ugb2Ygb25saW5lLCBvbi1jYW1wdXMgYW5kIGV4cGVyaWVudGlhbCBtYXJrZXRpbmcgc29sdXRpb25zLg0KPGJyIC8+PGJyIC8+DQpDYW1wdXMgTWVkaWEgaGFzIGJ1aWx0IGEgcmVwdXRhdGlvbiBhcyBhIHNwZWNpYWxpc3QgaW4gZGVsaXZlcmluZyByZXN1bHRzIHRocm91Z2ggaW50ZWdyYXRlZCBjYW1wYWlnbnMuIE91ciBleHBlcmllbmNlIHdpdGhpbiB0aGUgeW91dGggbWFya2V0IGlzIHVucGFyYWxsZWxlZCB3b3JraW5nIHdpdGggY2xpZW50cyB0byBjcmVhdGUgc2VhbWxlc3MsIHJlbGV2YW50LCB1bmZvcmdldHRhYmxlIGNhbXBhaWducyB0aGF0IGRlbGl2ZXIgcmVzdWx0cy4NCjxiciAvPjxiciAvPg0KQ2FtcHVzIE1lZGlhIGNsaWVudHMgaGF2ZSBpbmNsdWRlZCBMkk9yZWFsLCBSZWQgQnVsbCwgTzIsIFN1cGVyRHJ5LCBBcHBsZSwgTWljcm9zb2Z0LCBCZWFjaCBCcmVhayBMaXZlLCBUcmVrIEFtZXJpY2EgYW5kIEFkaWRhcyB0byBuYW1lIGEgZmV3Lg==
+)
+
+Categories
+
+Array
+(
+    [CategoryID] => 42
+    [CategoryName] => Engineering - Nuclear
+)
+
+Regions
+
+Array
+(
+    [RegionID] => 1
+    [RegionName] => London
+)
+
+WorkTypes
+
+Array
+(
+    [WorkTypeID] => 2
+    [WorkTypeName] => Graduate
+)
