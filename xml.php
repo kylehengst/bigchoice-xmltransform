@@ -1,7 +1,7 @@
 <?php
 
 // xml feed location
-$xmlUrl = 'http://www.thebigchoice.com/feeds/full_job_xml.php';
+// $xmlUrl = 'http://www.thebigchoice.com/feeds/full_job_xml.php';
 $xmlUrl = 'feed.xml';
 
 // sql tables
@@ -22,7 +22,7 @@ try{
     $xmlData = json_decode(json_encode(simplexml_load_file($xmlUrl)),true);
     
     // create database
-    $dbh = new PDO('sqlite:feed.db');
+    $dbh = new PDO('sqlite:data/feed.db');
     $dbh->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     echo "Connected to database\n";
     
