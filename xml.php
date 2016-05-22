@@ -36,7 +36,6 @@ try{
     // translate
     foreach ($xmlMap as $xmlKey => $refValue) {
                 
-        if($xmlKey!='Job') continue;
         if(empty($xmlData[$xmlKey])) continue;
         
         // sql
